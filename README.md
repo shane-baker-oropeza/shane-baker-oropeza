@@ -24,13 +24,20 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shane-baker-oropeza/IT-Projects/blob/main/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shane-baker-oropeza/IT-Projects/blob/main/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com
+[youtube]: https://www.youtube.com
+[instagram]: https://www.instagram.com
 [linkedin]: https://linkedin.com/in/shane-baker-oropeza
-
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
