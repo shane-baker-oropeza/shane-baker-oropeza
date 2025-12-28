@@ -17,12 +17,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/shane-baker-oropeza/IT-Projects/blob/main/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/shane-baker-oropeza/IT-Projects/blob/main/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/shane-baker-oropeza/IT-Projects/blob/main/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/shane-baker-oropeza/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/shane-baker-oropeza/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/shane-baker-oropeza/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shane-baker-oropeza/IT-Projects/blob/main/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shane-baker-oropeza/IT-Projects/blob/main/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shane-baker-oropeza/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shane-baker-oropeza/azure-network-protocols)
 
 
 <hr/>
