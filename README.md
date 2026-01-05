@@ -21,6 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   - **[osTicket: Prerequisites and Installation](https://github.com/shane-baker-oropeza/osticket-prereqs)**
   - **[osTicket: Post-Installation Configuration](https://github.com/shane-baker-oropeza/post-install-config)**
   - **[osTicket: Ticket Lifecycle Examples](https://github.com/shane-baker-oropeza/ticket-lifecycle)**
+    
 - <h3>Microsoft Azure </h3>
 
   - **[Configuring On-premises Active Directory within Azure VMs](https://github.com/shane-baker-oropeza/configure-ad)**
