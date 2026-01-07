@@ -24,7 +24,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
     
 - <h3>Microsoft Azure </h3>
 
-  - **[Preparing Active Directory Infrastructure in Azure](https://github.com/shane-baker-oropeza/configure-ad)**
+  - **[Preparing Active Directory Infrastructure in Azure](https://github.com/shane-baker-oropeza/configure-ad-infrastructure)**
   - **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shane-baker-oropeza/azure-network-protocols)**
 
 
